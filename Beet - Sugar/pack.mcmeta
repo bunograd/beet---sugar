@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "Beet - Sugar",
+    "pack_format": 4,
+    "min_format": [4, 0],
+    "max_format": [101,1]
+  }
+}
